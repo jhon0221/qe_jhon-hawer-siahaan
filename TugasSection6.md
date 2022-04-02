@@ -24,7 +24,8 @@ Epic adalah jenis issue untuk melakukan pengelompokan task.
 Pembahasan : 
 Ketika menemukan bugs, maka yang akan dilakukan yaitu:
 a. membuat issue bertipe bugs saat ditemukan ada yang tidak sesuai dengan criteria testing.
-b. memindahkan fitur yang berkaitan dengan bugs ke panel "In Progress"
+b. menjelaskan kondisi sekarang, expected result dan actual result serta langkah-langkah testing yang dilakukan
+c. memindahkan fitur yang berkaitan dengan bugs ke panel "In Progress"
 
 
 Rangkuman: 
